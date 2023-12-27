@@ -4,6 +4,7 @@ This project describes my attempts at finding suitable small protein tags that c
 
 ## Properties of the ideal enzyme
  - Does not interact in any way or impact the function of the attached POI
+ - Does not impact expression of the POI
  - High catalytic rate for the desired sensor molecule
  - Does not catalyse any other reaction other than the intended reaction
  - Does not interfere with the normal function of the cell or any cellular processes
